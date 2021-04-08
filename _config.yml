@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "민혜원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1234.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "HAFS 16"
   location         : "대한민국, 경기"
   email            : "mhwnature0320@gmail.com"
