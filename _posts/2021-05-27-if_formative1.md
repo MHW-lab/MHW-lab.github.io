@@ -51,7 +51,7 @@ return 0;
 ---
 
 ### 03. 이달은 며칠까지 있을까 
-
+![month](/assets/images/IT활동_이달은며칠까지.png)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -75,4 +75,6 @@ printf("28일");
 }
 printf("입니다.\n");
 return 0;
-}~~~
+}
+~~~
+---
