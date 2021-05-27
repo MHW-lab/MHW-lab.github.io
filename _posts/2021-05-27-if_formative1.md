@@ -8,7 +8,7 @@ categories: "형성평가"
 ---
 
 ### 01. 사주보기
-![saju](/assets/images/IT활돌_사주보기.jpg)
+![saju](/assets/images/IT활돌_사주보기.png)
 ~~~c
 #include <stdio.h>
  int main(void)
