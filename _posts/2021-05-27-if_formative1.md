@@ -29,7 +29,7 @@ return 0;
 ---
 
 ### 02. 3개의 터널 통과
-![tunnel](/assets/images/IT활동_3개의 터널 통과.png)
+![tunnel](/assets/images/IT활동_3개의터널통과.png)
 ~~~c
 #include <stdio.h>
 int main(void)
