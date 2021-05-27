@@ -36,6 +36,7 @@ int main(void)
 { int tunnul_1, tunnul_2, tunnul_3;
 printf("세 터널의 높이를 차례대로 입력하세요 : ");
 scanf("%d,%d,%d",&tunnul_1,&tunnul_2,&tunnul_3);
+
 if(tunnul_1<=170)
 printf("충돌 %d", tunnul_1);
 else if(tunnul_2<=170)
