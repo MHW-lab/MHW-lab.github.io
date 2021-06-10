@@ -14,7 +14,7 @@ categories: "참고 영상"
 
 전설의 암메기 2130만 딜
 {% include video id="QdH-NtEC5Kc" provider="youtube" %}
-
+---
 레이드 솔플
 {% include video id="rZvXD-JQZfs" provider="youtube" %}
 ---
@@ -26,5 +26,6 @@ categories: "참고 영상"
 ### 03. 햄로드의 성우 계약
 
 로드 오브 히어로즈의 성우들이 나와 진행한 컨텐츠이다. 
-{% include video id="_EH1MBA_vOk" provider="youtube" %}
+{% include video id="EH1MBA_vOk" provider="youtube" %}
+---
 
