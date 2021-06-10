@@ -15,11 +15,13 @@ categories: "로드오브 히어로즈"
 이번 업데이트로 대대적인 레이드 개편이 일어나기 시작했다.
 
 레이드 솔플
+
 {% include video id="rZvXD-JQZfs" provider="youtube" %}
 ---
 과거에는 이렇게 특정 레벨이 정해져 있는 형태였였다.
 
 그러나 현재 개편된 레이드는 아래의 영상과 같이 1렙부터 시작해서 누적하는 방식이다. 
+
 {% include video id="QdH-NtEC5Kc" provider="youtube" %}
 --
 
