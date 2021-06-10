@@ -4,10 +4,10 @@ title: "유튜브 동영상 삽입하기"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-categories: "참고 영상"
+categories: "로드오브 히어로즈"
 ---
 
-게임 로드 오브 히어로즈 관련 영상을 정리합니다. 
+유튜브 영상을 삽입합니다.
 ---
 
 ### 01. 레이드 관련 영상
